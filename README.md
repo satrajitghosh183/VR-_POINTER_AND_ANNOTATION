@@ -1,4 +1,5 @@
-VR Annotation and Pointer Placement System for Education and Industrial Training
+
+# VR Annotation and Pointer Placement System for Education and Industrial Training
 This project aims to provide a virtual reality (VR) application that enables free annotation and pointer placement for educational and industrial training purposes. The application is designed specifically for the Oculus Quest platform and developed using Unity and Blender. It incorporates custom scripts to enable intuitive interaction through pinching gestures and supports writing annotations directly in VR.
 
 Features
@@ -39,3 +40,5 @@ Use the pinching gesture to interact with the virtual environment and create ann
 Place virtual pointers to highlight specific objects or areas of interest.
 Explore the application's menus and settings to customize your experience or access additional features.
 Make use of the VR Annotation and Pointer Placement System in educational or industrial training scenarios as desired.
+
+
